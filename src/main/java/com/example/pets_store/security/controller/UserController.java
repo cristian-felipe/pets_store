@@ -1,4 +1,4 @@
-package com.example.pets_store.controller;
+package com.example.pets_store.security.controller;
 
 import java.util.List;
 
